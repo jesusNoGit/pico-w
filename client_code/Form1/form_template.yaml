@@ -8,10 +8,6 @@ components:
   name: content_panel
   layout_properties: {slot: default}
   components:
-  - type: TextBox
-    properties: {role: null, bold: false, align: left, placeholder: '', spacing_above: small, background: '', type: number, underline: false, font: '', hide_text: false, foreground: '', spacing_below: small, visible: true, border: '', italic: false, enabled: true, font_size: null, tooltip: '', text: '', margin: null}
-    name: text_box_1
-    layout_properties: {grid_position: 'EQDEUW,KXWSWA'}
   - type: Button
     properties: {role: null, bold: false, align: center, spacing_above: small, background: 'theme:Primary Container', icon: '', underline: false, font: '', icon_align: left, foreground: '', spacing_below: small, visible: true, border: '', italic: false, enabled: true, font_size: null, tooltip: '', text: acende led, margin: null}
     name: button_1
