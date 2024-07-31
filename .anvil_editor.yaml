@@ -4,6 +4,7 @@ unique_ids:
   modules: {}
   server_modules: {}
   assets:
-    theme.css: 6PSW37WTCH25N5DTUSSWI3MDIZFKH5HJ
+    black_knight.jpg: '1722432661134418181465892.6561'
     standard-page.html: CTKJMGNQPZGSBBFSTWEFQAKGGFZKMSJC
+    theme.css: 6PSW37WTCH25N5DTUSSWI3MDIZFKH5HJ
   scripts: {}
