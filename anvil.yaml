@@ -15,3 +15,4 @@ services:
   server_config: {}
 metadata: {title: experimenta no pico w, description: experiências com o pico w, logo_img: 'asset:black_knight.jpg'}
 uplink_visible: true
+db_schema: {}
