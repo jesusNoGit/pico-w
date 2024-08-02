@@ -15,6 +15,10 @@ class Form1(Form1Template):
   def button_1_click(self, **event_args):
     """This method is called when the button is clicked"""
     anvil.server.call("pico_fn")
+    self.button_1.visible = False
+    self.button_2.visible = True
+    
+    
 
 
 
